@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juno-choo.
-- 👀 I’m interested in becoming a web developer.
+- 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning on freeCodeCamp.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me linkedin.com/junhoechoo
