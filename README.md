@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arcane-apple aka Juno Choo.
+- 👋 Hi, I’m @juno-choo.
 - 👀 I’m interested in becoming a web developer.
 - 🌱 I’m currently learning on freeCodeCamp.
 - 💞️ I’m looking to collaborate on GitHub.
