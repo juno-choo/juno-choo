@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning on freeCodeCamp.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me linkedin.com/junhoechoo
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: Love badminton, movies and kimchi.
 
 <!---
