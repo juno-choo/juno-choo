@@ -8,5 +8,5 @@ Stats:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juno-choo&layout=compact&show_icons=true&theme=dark)]()
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=juno-choo&show_icons=true&theme=solarized-dark&hide=stars)]()
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=juno-choo&show_icons=true&theme=dark&hide=stars)]()
 
