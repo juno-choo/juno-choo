@@ -2,7 +2,6 @@
 - 💼 I’m a software engineer intern with 1 year of experience. 
 - 👀 I’m a front-end developer working to become a full stack developer.
 - 🌱 I’m currently learning on freeCodeCamp.
-- 📫 How to reach me linkedin.com/junhoechoo
 - ⚡ Fun fact: Love badminton, movies and kimchi.
 
 Stats:
