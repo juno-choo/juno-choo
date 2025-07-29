@@ -6,7 +6,9 @@
 
 Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juno-choo&layout=compact&show_icons=true&theme=dark)]()
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/8dc4305d-8f38-49f3-8bd9-28f7c0f3df20/thumbnail" >
+</p>
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=juno-choo&show_icons=true&theme=dark&hide=stars)]()
 
