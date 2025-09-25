@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Juno.
-- 💼 I’m a software engineer intern skilled in creating full-stack CRUD web applications with a creative touch for UI design.
-- 👀 I am interested in learning machine learning and backend engineering.
+- 💼 I’m a software engineer intern skilled in building full-stack CRUD web applications.
+- 👀 I am learning machine learning and C++/C#.
 - 🌱 I’m currently a CS student.
 - ⚡ Fun fact: Love badminton, movies and kimchi.
+
+https://leetcode.com/u/juno_miso/
 
 Stats:
 
