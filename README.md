@@ -8,7 +8,7 @@ LeetCode Profile -> https://leetcode.com/u/juno_miso/
 
 Stats:
 
-![2550](https://github.com/user-attachments/assets/378333c5-f551-485f-b367-534060cb5529)
+![leet100](https://github.com/user-attachments/assets/80a3ff9d-42d0-4f6f-b61a-91a40d32b486)
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=juno-choo&show_icons=true&theme=dark&hide=stars)]()
 
