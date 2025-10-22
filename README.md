@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juno.
-- 💼 I’m a software engineer intern skilled in building full-stack CRUD web applications.
+- 💼 I’m a software engineer intern skilled in building full-stack CRUD web applications and breaking down complex problems.
 - 👀 I am learning machine learning and C++/C#.
 - 🌱 I’m currently a CS student.
 - ⚡ Fun fact: Love badminton, movies and kimchi.
