@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juno.
-- 💼 I’m a software engineer intern for an aerospace company working with C# & Neo4j.
+- 💼 I’m a software engineer intern for an aerospace research institute working with C# & Neo4j.
 - 👀 I am learning the basics of databases in C.
-- 🌱 I’m currently a CS student.
+- 🌱 I’m an ex-Math teacher and currently a CS student.
 - ⚡ Fun fact: Love badminton, movies and kimchi.
 
 LeetCode Profile -> https://leetcode.com/u/juno_miso/
