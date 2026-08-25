@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juno.
 - 💼 I’m a software engineer intern for an aerospace research institute working with C# & Neo4j.
-- 👀 I am learning how to build a chess engine in Python and the basics of databases in C.
+- 👀 I am learning how to build a chess engine and limit order book in C++.
 - 🌱 I’m an ex-Math teacher and currently a post-bacc CS student.
 - ⚡ Fun fact: Love badminton, movies and kimchi.
 
