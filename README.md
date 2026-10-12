@@ -8,6 +8,6 @@ LeetCode Profile -> https://leetcode.com/u/juno_miso/
 
 Stats:
 
-<img width="360" height="360" alt="50" src="https://github.com/user-attachments/assets/f6b97eb8-758c-4d6d-becb-593abc52db98](https://assets.leetcode.com/static_assets/others/100.gif" />
+<img width="360" height="360" alt="50" src="https://assets.leetcode.com/static_assets/others/100.gif" />
 
 
